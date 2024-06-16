@@ -1,0 +1,16 @@
+X0                     1
+Y0                     1
+Z0                     0.9
+METROPOLIS_STEP_0      1.2
+X0_NEW                 1
+Y0_NEW                 2
+Z0_NEW                 2
+METROPOLIS_STEP_1      3.8
+SIGMA_0                0.63
+SIGMA_1                1.5  
+NBLOCKS                100
+NSTEPS                 100000
+NITER                  1000
+
+
+ENDINPUT

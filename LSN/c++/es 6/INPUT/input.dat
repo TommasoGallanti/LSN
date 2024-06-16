@@ -1,0 +1,12 @@
+SIMULATION_TYPE        2
+RESTART                0
+TEMP
+NPART                  50
+RHO                    1.0
+DELTA                  0.0
+NBLOCKS                50
+NSTEPS                 100000
+J                      1.0
+H                      0.00
+
+ENDINPUT

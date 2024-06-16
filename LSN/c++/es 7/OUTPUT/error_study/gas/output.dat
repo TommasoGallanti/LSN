@@ -1,0 +1,16 @@
+LJ MONTE CARLO (NVT) SIMULATION
+TEMPERATURE= 1.2
+NPART= 108
+SIDE=      12.9266     12.9266     12.9266
+R_CUT= 5
+DELTA= 4
+NBLOCKS= 500000
+NSTEPS= 1
+N_EQ_BLOCKS= 2000
+N_EQ_STEPS= 1
+TEMP_RESTARTED= 0.8
+TEMP_RESTARTED= 0.8
+Reading input completed!
+System initialized!
+Reading properties completed!
+Simulation completed!

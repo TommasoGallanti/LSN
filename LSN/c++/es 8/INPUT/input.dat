@@ -1,0 +1,12 @@
+X0                   0
+METROPOLIS_STEP      5
+DELTA_OPT            0.1
+SIGMA_0              1
+MU_0                 1
+TEMP                 0. 0.1 200
+NBLOCKS              50
+NSTEPS               10000       
+NITER                10000
+TEMP_REP             5
+
+ENDINPUT
